@@ -34,13 +34,15 @@ and the memory enhancemnet could be done with caching like redis
 
 2.cd into the cloned directory--FreshWork-Backend
 
-3.RUN command uvicorn app.main:app --reload to load the live loading server
+3.activate virtual evn-venv
 
-4.visit the url--"http://127.0.0.1:8000/docs
+4.RUN command uvicorn app.main:app --reload to load the live loading server
 
-5.you will find POST,GET,DELETE RSET API endpoints in swagger docs .
+5.visit the url--"http://127.0.0.1:8000/docs
 
-6.you can access different endpoints by clicking on the methods and the clicking on "try it out".
+6.you will find POST,GET,DELETE RSET API endpoints in swagger docs .
+
+7.you can access different endpoints by clicking on the methods and the clicking on "try it out".
 
 
 **[process2]**
