@@ -34,7 +34,7 @@ and the memory enhancemnet could be done with caching like redis
 
 2.cd into the cloned directory--FreshWork-Backend
 
-3.activate virtual evn-venv
+3.activate virtual evnvironment--" source venv/bin/activate "
 
 4.RUN command uvicorn app.main:app --reload to load the live loading server
 
